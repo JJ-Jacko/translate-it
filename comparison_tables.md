@@ -59,6 +59,7 @@
 | Class | 类 | Class / 類別 |
 | Interface | 接口 | Interface / 介面 |
 | Exception | 异常 | Exception / 例外 |
+| Comment | 注释 | 註釋 (`註解`/`Annotation` is different concept in Java) |
 | Debugging | 调试 | Debug / 除錯 |
 | Compile | 编译 | Compile / 編譯 |
 | Runtime | 运行时 | Runtime / 執行時 |
