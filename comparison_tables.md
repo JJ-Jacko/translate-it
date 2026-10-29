@@ -78,6 +78,8 @@
 | Backend | 后端 | 後端 / Backend |
 | Full-stack | 全栈 | 全端 / Full-stack |
 | Web Application | Web 应用 | 網頁應用程式 / Web App |
+| Hostname | 主机名 | Hostname |
+| Port | 端口 | Port |
 | API | 接口 / API | API |
 | Endpoint | 接口地址 / 端点 | Endpoint |
 | Request | 请求 | Request / 請求 |
